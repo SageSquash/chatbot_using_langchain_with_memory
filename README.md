@@ -1,3 +1,3 @@
-chatbot_using_langchain_with_memory
+**chatbot_using_langchain_with_memory**
 
 This repository demonstrates the integration of the langchain_google_genai library with Google Generative AI models to build interactive chatbots. The setup includes installing necessary dependencies (langchain_google_genai, langchain, and langchain_community) and configuring API keys for authentication. The chatbot leverages the ChatGoogleGenerativeAI class to process human inputs and generate intelligent responses, supporting contextual conversations using memory storage. Additionally, prompts can be customized for specific behaviors, such as adding taunts or sarcasm. The provided examples showcase its ability to handle dynamic queries, remember user preferences across sessions, and generate witty, context-aware responses using LangChain’s versatile tools.
